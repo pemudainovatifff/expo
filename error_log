@@ -1,0 +1,11 @@
+[12-Nov-2023 20:05:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'posyand8_userpabw'@'localhost' to database 'posyand8_posyand8_contohpabw' in /home1/posyand8/public_html/art/ian/koneksi.php on line 8
+[12-Nov-2023 20:05:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'posyand8_userpabw'@'localhost' to database 'posyand8_posyand8_contohpabw' in /home1/posyand8/public_html/art/ian/koneksi.php on line 8
+[12-Nov-2023 20:05:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'posyand8_userpabw'@'localhost' to database 'posyand8_posyand8_contohpabw' in /home1/posyand8/public_html/art/ian/koneksi.php on line 8
+[12-Nov-2023 20:05:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'posyand8_userpabw'@'localhost' to database 'posyand8_posyand8_contohpabw' in /home1/posyand8/public_html/art/ian/koneksi.php on line 8
+[12-Nov-2023 20:05:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'posyand8_userpabw'@'localhost' to database 'posyand8_posyand8_contohpabw' in /home1/posyand8/public_html/art/ian/koneksi.php on line 8
+[12-Nov-2023 20:06:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'posyand8_userpabw'@'localhost' to database 'posyand8_posyand8_contohpabw' in /home1/posyand8/public_html/art/ian/koneksi.php on line 8
+[12-Nov-2023 20:29:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/posyand8/public_html/art/ian/index2.php on line 459
+[12-Nov-2023 20:29:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/posyand8/public_html/art/ian/index2.php on line 459
+[12-Nov-2023 20:29:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/posyand8/public_html/art/ian/index2.php on line 459
+[12-Nov-2023 20:30:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/posyand8/public_html/art/ian/index2.php on line 459
+[12-Nov-2023 20:30:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/posyand8/public_html/art/ian/index2.php on line 459
